@@ -1,0 +1,22 @@
+body{
+  background: linear-gradient(to top right, #006600 10%, #99cc00 83%);
+}
+
+.formulario{
+
+  height: 90%;
+  width: 80%;
+  display: table;
+}
+
+.table-cell{
+  display: table-cell;
+}
+
+input{
+  border-radius: 20px;
+}
+
+textarea{
+  border-top-left-radius: 40px;
+}
